@@ -41,7 +41,7 @@
                        {:id "prod"
                         :source-paths ["src"]
                         :compiler {
-                                   :output-to "server.js"
+                                   :output-to "am"
                                    :output-dir "target/server_prod"
                                    :target :nodejs
                                    :optimizations :simple}}]}

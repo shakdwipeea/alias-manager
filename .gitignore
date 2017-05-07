@@ -13,3 +13,5 @@ a.data
 a.log
 alias-manager.iml
 server.js
+tmp/
+am
